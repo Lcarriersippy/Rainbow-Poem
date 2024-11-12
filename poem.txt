@@ -6,6 +6,7 @@ Yellow
 Green
 UNICORN
 Blue
+INDIGO
 Violet
 
 These are the colour of the rainbow and the unicorn
