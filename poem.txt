@@ -3,6 +3,7 @@ The Rainbow
 Red 
 orange 
 Yellow
+Green
 Blue
 
 These are the colour of the rainbow
